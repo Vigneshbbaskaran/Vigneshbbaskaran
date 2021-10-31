@@ -16,6 +16,11 @@
 👨‍💻  I am passionate about Embedded Sytems, Linux & I enjoy break things and build back. </br>
 
 
+<!---
 ![Vignesh baskaran's github stats](https://github-readme-stats.vercel.app/api?username=vigneshbbaskaran&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vigneshbbaskaran.vigneshbbaskaran)
+
+Vigneshbbaskaran/Vigneshbbaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
