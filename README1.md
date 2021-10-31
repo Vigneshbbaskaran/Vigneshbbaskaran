@@ -1,10 +1,10 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vignesh!] 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vignesh! 
 
 <a href="https://www.linkedin.com/in/b-vignesh-baskaran/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://github.com/Vigneshbbaskaran/Vigneshbbaskaran/blob/main/linkedin-circle.png"  />
 </a>
 <a href="https://twitter.com/VIGNESH14139940">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://github.com/Vigneshbbaskaran/Vigneshbbaskaran/blob/main/twitter-circle.png" />
 </a>
 <a href="mailto:vigneshbbaskaran@gmail.com">
   <img align="left" width="26px" src="https://github.com/Vigneshbbaskaran/Vigneshbbaskaran/blob/main/gmail.png" />
