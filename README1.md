@@ -7,7 +7,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:vigneshbbaskaran@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://github.com/Vigneshbbaskaran/Vigneshbbaskaran/blob/main/gmail.png" />
 </a>
 <br />
 
