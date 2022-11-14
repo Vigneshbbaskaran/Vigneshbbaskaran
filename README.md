@@ -13,7 +13,8 @@
 
 ### About Me 🚀
 🎓 I’m Embedded Linux Engineering. </br>
-👨‍💻  I am passionate about Embedded Sytems, Linux & I enjoy break things and build back. </br>
+👨‍💻 Skills: Firmware, Linux Internals, Board Bring Up, IoT, Device Tree. </br>
+💻 Programming Languages & Tools: C, C++, Python, Shell Scripting, Make, Ctags, Vim, VS code </br>
 
 
 <!---
