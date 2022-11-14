@@ -17,10 +17,6 @@
 💻 Programming Languages & Tools: C, C++, Python, Shell Scripting, Make, Ctags, Vim, VS code </br>
 
 
-No Need to Reinvent the Wheel, Just </br>
-understand it ! </br>
-Customize it !! </br>
-Optimize it !!! </br>
 <!---
 ![Vignesh baskaran's github stats](https://github-readme-stats.vercel.app/api?username=vigneshbbaskaran&show_icons=true&hide_border=true)
 <br />
