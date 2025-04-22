@@ -78,8 +78,3 @@
 </p>
 
 ---
-
-### 🚀 Fun Fact:
-> "An Embedded Engineer’s best skill isn’t just coding... it’s crafting systems that *breathe intelligence* into silicon."
-
----
