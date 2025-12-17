@@ -58,23 +58,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshbbaskaran&theme=highcontrast" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vigneshbbaskaran&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshbbaskaran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Real-Time Activity:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vigneshbbaskaran&theme=tokyonight" />
-</p>
 
 ---
