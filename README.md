@@ -14,12 +14,9 @@
   </a>
 </p>
 
----
 
 ### 🧑‍💻 About Me:
 - 🎓 Embedded Linux Engineer specializing in **Board Bringup, Linux Internals, Firmware Development**, and **low-level system debugging**.
-
----
 
 ### 🛠️ Programming Languages & Tools:
 <p align="center">
@@ -32,18 +29,13 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
 ### 🤖 Machine Learning & AI:
 - 📊 Strong understanding of **ML fundamentals** (regression, classification, optimization).
 - 🧮 Hands-on with **Python-based ML workflows**.
 
-
 **Tools & Concepts:**
 - NumPy, Pandas  
 - TensorFlow / Keras 
-
----
 
 ### 🚀 Tech Interests:
 - Linux Kernel Development  
