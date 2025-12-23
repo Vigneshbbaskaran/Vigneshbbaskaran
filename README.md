@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & AI:
-- 📊 Strong understanding of **ML fundamentals** (regression, classification, optimization).
-- 🧮 Hands-on with **Python-based ML workflows**.
-
-**Tools & Concepts:**
-- NumPy, Pandas  
-- TensorFlow / Keras 
-
 ### 🚀 Tech Interests:
 - Linux Kernel Development  
 - Device Drivers & Bare Metal Programming  
